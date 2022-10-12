@@ -27,4 +27,6 @@
     const t = i(e);
     fetch(e.href, t);
   }
+
 })();
+                                                                                  
